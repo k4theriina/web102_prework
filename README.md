@@ -17,8 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [X] List anything else that you can get done to improve the app functionality!
-    - When hovering over the filter buttons (Show Unfunded Only, Show Funded Only, etc), I made it so that the cursor shows up as a pointer when hovering over the button.
+* [X] When hovering over the filter buttons (Show Unfunded Only, Show Funded Only, etc), I made it so that the cursor shows up as a pointer when hovering over the button.
 
 ## Video Walkthrough
 
